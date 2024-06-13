@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/vars-demo-crosswalk/:/",
+    "/content/vars-demo-crosswalk/placeholders:/placeholders.json",
     "/content/vars-demo-crosswalk/configuration:/.helix/config.json"
   ]
 }
